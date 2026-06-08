@@ -1,0 +1,2 @@
+participant_id,language,device,day,completed,point_confidence_1_5,instruction_clarity_1_5,safety_understood,discomfort,pre_state,post_state,confusion_note,medical_misinterpretation
+P001,en,mobile,1,,,,,,,,,
